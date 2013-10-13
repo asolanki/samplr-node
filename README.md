@@ -1,4 +1,4 @@
 samplr-node
 ===========
 
-Samplr Node.js attempt
+Samplr Node.js attempt.
